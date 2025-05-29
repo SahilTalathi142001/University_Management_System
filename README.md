@@ -70,8 +70,3 @@ Feel free to fork this repo, suggest improvements, or raise issues if you find b
 📬 Contact
 Sahil Talathi
 Microsoft Certified Fabric Data Engineer Associate
-📧 [Email]
-🔗 LinkedIn
-
-🏷️ Tags
-SQL Data Warehouse Star Schema ERD Database Design University System BI PowerBI Analytics
